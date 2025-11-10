@@ -1,1 +1,1 @@
-# Confluence Hackathon
+# Silicon Rush 3.0 Hackathon
